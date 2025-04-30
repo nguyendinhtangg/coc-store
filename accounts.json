@@ -1,0 +1,24 @@
+[
+  {
+    "name": "MÃ 7729",
+    "hall": 12,
+    "king": 53,
+    "queen": 62,
+    "warden": 34,
+    "minion": 30,
+    "price": 260000,
+    "image": "https://via.placeholder.com/300x200",
+    "link": "https://zalo.me/yourzalo"
+  },
+  {
+    "name": "MÃ 7707",
+    "hall": 13,
+    "king": 70,
+    "queen": 70,
+    "warden": 50,
+    "minion": 44,
+    "price": 280000,
+    "image": "https://via.placeholder.com/300x200",
+    "link": "https://zalo.me/yourzalo"
+  }
+]
